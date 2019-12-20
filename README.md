@@ -32,7 +32,7 @@ apt-get install python3
 
 apt-get install python3-pip
 
-pip3 install playground
+pip3 install playsound
 
 cd alarmi-kurdi
 
