@@ -26,7 +26,7 @@ python alarmCMD.py
 
 # usage for linux 
 
-git clone https://github.com/AzaA-A/alarmi-kurdi.git
+git clone https://github.com/AzaD-A/alarmi-kurdi.git
 
 apt-get install python3
 
